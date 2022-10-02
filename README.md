@@ -1,5 +1,5 @@
 
-![Logo](https://drive.google.com/file/d/1kstk3EPAsKBuKCrsyxy4XbIX3yM4RUof/view?usp=sharing)
+![Logo](https://github.com/RyanWalker277/Spaceapps2022/blob/main/images/1.jpeg)
 
 
 
@@ -23,9 +23,9 @@ The history and making of the ISS made us very eager to explore and learn more a
 
 ## Screenshots
 
-![App Screenshot](https://www.pexels.com/photo/space-technology-research-science-41006/)
+![App Screenshot](https://github.com/RyanWalker277/Spaceapps2022/blob/main/images/2.jpeg)
 
-![App Screenshot](https://www.pexels.com/photo/sky-earth-space-working-2156/)
+![App Screenshot](https://github.com/RyanWalker277/Spaceapps2022/blob/main/images/3.jpeg)
 
 
 ## Authors
